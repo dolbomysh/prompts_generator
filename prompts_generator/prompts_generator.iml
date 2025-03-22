@@ -11,6 +11,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" exported="" name="json" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.json:json:20171018" level="project" />
   </component>
 </module>
