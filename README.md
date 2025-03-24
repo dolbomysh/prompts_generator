@@ -28,7 +28,3 @@ arg1 = argname1, arg2 = argname2, ...
 &ensp;*1 : Russian cats are a member of the domestic cat family.* <br>
 &ensp;*2 : German Shepherds are a breed of dog.* <br>
 &ensp;*3 : In China, elephants are a major part of the zoo exhibit.* <br><br>
-
-
-
-Возможно создание шаблонных строк (в том числе, с рекурсивной подстановкой с помощью класса TemplatedString и получение ответов на запросы функцией generatePrompts.
